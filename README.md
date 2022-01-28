@@ -1,8 +1,9 @@
 ## Olá!!! Sou o Marcos Vinicius 👋
 <div>
   <a href="https://github.com/MarcosViniciusT">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosViniciusT&layout=compact&langs_count=7&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosViniciusT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosViniciusT&layout=compact&langs_count=7&theme=dark"/>
+  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"">
